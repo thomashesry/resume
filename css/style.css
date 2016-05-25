@@ -7,8 +7,18 @@ body{
 }
 
 h1,h2, h3{
-	font-family: "Roboto Slab", sans-serif;
+	font-family: "Francois One", sans-serif;
 	font-weight: 700;
+}
+
+article a{
+	font-weight: bold;
+	text-decoration: none;
+	color: #42A5F5;
+}
+
+article a:visited{
+	color: #42A5F5;
 }
 
 h1{
